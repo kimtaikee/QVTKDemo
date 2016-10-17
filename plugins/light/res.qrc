@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="texture_earth">images/texture_earth_surface.jpg</file>
+        <file alias="texture_sun">images/texture_sun.jpg</file>
+    </qresource>
+</RCC>

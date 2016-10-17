@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ackley">datafiles/ackley.dat</file>
+        <file alias="data">datafiles/data.dat</file>
+        <file alias="demo">datafiles/demo.txt</file>
+        <file alias="griewank">datafiles/griewank.dat</file>
+        <file alias="pit">datafiles/pit.txt</file>
+        <file alias="schaffer">datafiles/schaffer.dat</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+LIB_NAME = 3dparty
+LIB_DEPENDS += 

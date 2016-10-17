@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="earthclouds">images/earthclouds.png</file>
+        <file alias="texture_earth_clouds">images/texture_earth_clouds.jpg</file>
+        <file alias="texture_earth_night">images/texture_earth_night.jpg</file>
+        <file alias="texture_earth_surface">images/texture_earth_surface.jpg</file>
+        <file alias="texture_jupiter">images/texture_jupiter.jpg</file>
+        <file alias="texture_mars">images/texture_mars.jpg</file>
+        <file alias="texture_mercury">images/texture_mercury.jpg</file>
+        <file alias="texture_moon">images/texture_moon.jpg</file>
+        <file alias="texture_neptune">images/texture_neptune.jpg</file>
+        <file alias="texture_saturn">images/texture_saturn.jpg</file>
+        <file alias="texture_sun">images/texture_sun.jpg</file>
+        <file alias="texture_uranus">images/texture_uranus.jpg</file>
+        <file alias="texture_venus_atmosphere">images/texture_venus_atmosphere.jpg</file>
+        <file alias="texture_venus_surface">images/texture_venus_surface.jpg</file>
+        <file alias="texture_pluto">images/texture_pluto.jpg</file>
+        <file alias="texture_terrian">images/texture_terrian.jpg</file>
+        <file alias="texture_rocky_desert">images/texture_rocky_desert.jpg</file>
+        <file alias="texture_sand">images/texture_sand_terrian.jpg</file>
+        <file alias="texture_desert_smf">images/texture_desert_smf.jpg</file>
+    </qresource>
+</RCC>

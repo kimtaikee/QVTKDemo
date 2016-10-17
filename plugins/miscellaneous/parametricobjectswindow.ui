@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ParametricObjectsWindow</class>
+ <widget class="QWidget" name="ParametricObjectsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>946</width>
+    <height>468</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QSplitter" name="splitter">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <widget class="QGroupBox" name="groupBox">
+      <property name="maximumSize">
+       <size>
+        <width>350</width>
+        <height>16777215</height>
+       </size>
+      </property>
+      <property name="title">
+       <string>Config</string>
+      </property>
+      <layout class="QGridLayout" name="gridLayout_4">
+       <item row="0" column="0">
+        <layout class="QGridLayout" name="gridLayout_3">
+         <item row="1" column="0" colspan="2">
+          <widget class="QGroupBox" name="configGroupBox">
+           <property name="title">
+            <string>Config</string>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_5">
+            <item row="1" column="0">
+             <widget class="QStackedWidget" name="stackWidget">
+              <widget class="QWidget" name="page"/>
+              <widget class="QWidget" name="page_2"/>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="0" column="1">
+          <widget class="QComboBox" name="comboBox">
+           <item>
+            <property name="text">
+             <string>Boy</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>ConicSpiral</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>CrossCap</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Dini</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ellipsoid</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Enneper</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Figure8Klein</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Klein</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Mobius</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>RandomHills</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Roman</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Spline</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>SuperEllipsoid</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>SuperToroid</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Torus</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QLabel" name="label">
+           <property name="text">
+            <string>Function Type</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QGroupBox" name="groupBox_2">
+      <property name="title">
+       <string>Preview</string>
+      </property>
+      <layout class="QGridLayout" name="gridLayout_2">
+       <item row="0" column="0">
+        <layout class="QVBoxLayout" name="previewLayout"/>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
