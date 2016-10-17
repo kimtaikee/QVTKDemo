@@ -52,6 +52,9 @@ Contour
  
 Chart Overlay, create custom 3d widget
 <img src="https://cloud.githubusercontent.com/assets/2052516/18082320/e5ee999c-6ed0-11e6-9262-985a663d0ade.gif"></img>
+
+Arrow Widget, custom 2d widget
+<img src="https://cloud.githubusercontent.com/assets/2052516/19423918/94753236-9457-11e6-8557-7eaffe0e9563.gif"></img>
  
 Slider Widget
 <img src="https://cloud.githubusercontent.com/assets/2052516/17933034/1fd57e68-6a45-11e6-85e8-850c7525b973.gif"></img>
@@ -64,4 +67,7 @@ Contour Widget
  
 Distance Widget
 <img src="https://cloud.githubusercontent.com/assets/2052516/17932949/c92cf2a8-6a44-11e6-88f8-bd132ad25e85.gif"></img>
+
+Scale vtkCubeAxesActor2D
+<img src="https://cloud.githubusercontent.com/assets/2052516/19424139/596b6a82-9459-11e6-9974-9749c2e627f6.gif"></img>
 
